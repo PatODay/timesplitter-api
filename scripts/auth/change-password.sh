@@ -1,4 +1,5 @@
 #!/bin/bash
+#sh scripts/auth/change-password.sh
 
 curl "http://localhost:4741/change-password" \
   --include \

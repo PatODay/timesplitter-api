@@ -1,4 +1,5 @@
 #!/bin/bash
+#sh scripts/auth/sign-out.sh
 
 curl "http://localhost:4741/sign-out" \
   --include \
