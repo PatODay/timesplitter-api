@@ -1,7 +1,7 @@
 # API for TimeSplitter: Task Tracking App v 0.1.3
 
 [TimeSplitter Deployed Site](https://patoday.github.io/timesplitter-ember-client/)
-[TimeSplitter Frone End Repo](https://github.com/PatODay/timesplitter-ember-client)
+[TimeSplitter Front End Repo](https://github.com/PatODay/timesplitter-ember-client)
 
 TimeSplitter is designed to allow registered users to input tasks they need and/or want to do. All authenticated users tasks are tied with the email they used to create the account and will be visible to them and only them.
 
