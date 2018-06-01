@@ -351,9 +351,7 @@ Content-Type: application/json; charset=utf-8
 
 ![alt text](https://i.imgur.com/th7WSdv.png)
 ![alt text](https://i.imgur.com/YXAlkYG.png)
-![alt text](https://i.imgur.com/wWnkhst.jpg)
-![alt text](https://i.imgur.com/88VaeH0.jpg)
-![alt text](https://i.imgur.com/oRhJlxp.jpg)
+![alt text](https://i.imgur.com/5IW7tJd.png)
 
 # Setup and Installation
 
