@@ -27,6 +27,11 @@ TimeSplitter is designed to allow registered users to input tasks they need and/
 
   * [TimeSplitter Heroku Page](https://dry-hollows-29032.herokuapp.com/)
 
+# Planning
+
+Having worked with Rails in previous apps I knew how I wanted to go about setting up this API. I began by planning out my ERD and API endpoints, then writing out the commands I wanted to run and double check the docs to make sure I would be doing everything correctly. Once I was certain I had everything planned out correctly I set up the API and tested the Auth endpoints via curl scripts.
+After success with the Auth endpoints I scaffolded my resource, created the curl scripts, tested them successfully and moved on to the front-end.
+
 # API Endpoints
 
 ## Authentication
